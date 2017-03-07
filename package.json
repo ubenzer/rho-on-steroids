@@ -17,9 +17,9 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "debug": "2.2.0",
-    "lodash": "3.9.3",
-    "rho": "0.2.3",
-    "string": "3.2.0"
+    "debug": "2.6.1",
+    "lodash": "4.17.4",
+    "rho": "0.3.0",
+    "string": "3.3.3"
   }
 }
