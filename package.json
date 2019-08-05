@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "2.2.0",
-    "lodash": "3.9.3",
+    "lodash": "4.17.5",
     "rho": "0.2.3",
     "string": "3.2.0"
   }
